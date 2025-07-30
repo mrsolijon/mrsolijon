@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on Android apps using Kotlin  
 - 🌤 Latest project: [WeatherAPP](https://github.com/mrsolijon/WeatherAPP) – hourly and weekly weather forecasts  
-- 🤖 Also developing Telegram bots with moderation features  
 - 🌱 Currently learning: Jetpack Compose
 - 📫 Reach me at: **isogurumu@gmail.com**
 
@@ -39,6 +38,10 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://t.me/mrhobs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
-  <a href="mailto:isogurumu@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://t.me/mrhobs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+  </a>
+  <a href="mailto:isogurumu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 </p>
