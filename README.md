@@ -32,13 +32,13 @@
 
 ### 🚀 Featured Projects:
 - 🌤 [WeatherAPP](https://github.com/mrsolijon/WeatherAPP) – Weather forecast app using location and OpenWeatherMap API
--- 🔢 [algo.ubtuit.uz](https://github.com/mrsolijon/algo.ubtuit.uz) – Logical & algorithmic problems solved in Java
+- 🔢 [algo.ubtuit.uz](https://github.com/mrsolijon/algo.ubtuit.uz) – Logical & algorithmic problems solved in Java
 <!-- Add more project links as you build -->
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
-  <a href="mailto:iminovsolijon@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://t.me/mrhobs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
+  <a href="mailto:isogurumu@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
 </p>
