@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Solijon Iminov</h1>
-<h3 align="center">Android Developer | Kotlin | Weather & Telegram Bot Apps</h3>
+<h3 align="center">Android Developer | Kotlin | Java</h3>
 
 
 
