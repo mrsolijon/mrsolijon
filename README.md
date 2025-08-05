@@ -30,9 +30,25 @@
 ---
 
 ### 🚀 Featured Projects:
-- 🌤 [WeatherAPP](https://github.com/mrsolijon/WeatherAPP) – Weather forecast app using location and OpenWeatherMap API
-- 🔢 [algo.ubtuit.uz](https://github.com/mrsolijon/algo.ubtuit.uz) – Logical & algorithmic problems solved in Java
-<!-- Add more project links as you build -->
+- 🌤 **[WeatherAPP](https://github.com/mrsolijon/WeatherAPP)**  
+  Weather forecast app using location and OpenWeatherMap API.  
+  Includes hourly and weekly forecasts with location permissions.
+
+- 🎬 **[MoviesAPP](https://github.com/mrsolijon/MoviesAPP)**  
+  Explore movie details, watch trailers, and manage bookmarks offline.  
+  Uses Room for offline storage and Retrofit for fetching movie data.
+
+- 📰 **[NewsAPP](https://github.com/mrsolijon/NewsAPP)**  
+  A news app that delivers breaking news and top stories in a clean and modern UI.  
+  Features article preview, category filtering, and responsive layout.
+
+- ❓ **[QuizAPP](https://github.com/mrsolijon/QuizAPP)**  
+  Simple quiz app built as a homework project during my Android course.  
+  Includes score tracking and basic question navigation.
+
+- 🔢 **[algo.ubtuit.uz](https://github.com/mrsolijon/algo.ubtuit.uz)**  
+  Logical & algorithmic problems solved in Kotlin.  
+  Showcases critical thinking and problem-solving skills.
 
 ---
 
